@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "Locationsaver"
+version = "1.0.0"
+name = "Location Saver"
+tagline = "Stores the location of objects"
+maintainer = "Deathshot747"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+tags = ["3D View"]
